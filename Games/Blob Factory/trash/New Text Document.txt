@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY>
+<IMAGE TITLE="school">image1.jpg</IMAGE>
+<IMAGE TITLE="garden">image2.jpg</IMAGE>
+<IMAGE TITLE="shop">image3.jpg</IMAGE>
+</GALLERY>
